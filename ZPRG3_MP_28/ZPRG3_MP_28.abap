@@ -1,3 +1,5 @@
+* MAIN
+
 PROGRAM ZPRG3_MP_28.
 
 TABLES: zproduto.
